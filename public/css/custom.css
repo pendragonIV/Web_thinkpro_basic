@@ -1,0 +1,52 @@
+.disable_focus_form:focus{
+    outline:0;
+}
+
+.background_color_btn{
+    background-color:rgb(246, 246, 246);
+}
+
+.background_color_btn:hover{
+    background-color: rgb(186, 186, 186);
+}
+
+.background_gray_custom{
+    background-color:rgb(246, 246, 246);
+}
+
+.background_red_custom{
+    background-color: rgb(255,240,246);
+}
+
+.background_pink_custom{
+    background-color: rgb(254,52,100);
+}
+
+.margin_top_custom{
+    margin-top: 5em;
+}
+
+.border_carousel_custom{
+    border:0px;
+    border-radius:120px;
+}
+
+.font-size-sml{
+    font-size: 0.8em;
+}
+
+.border_custom{
+    border-radius:1em;
+}
+.border_custom_bottom{
+    border-bottom-left-radius:1em;
+    border-bottom-right-radius:1em;
+}
+.border_custom_top{
+    border-top-left-radius:1em;
+    border-top-right-radius:1em;
+}
+
+.product_img_hover:hover{
+    width: 30em;
+}
