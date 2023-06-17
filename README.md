@@ -1,10 +1,10 @@
 # Web_thinkpro_basic
-Website's images </br>
+
 ERD </br>
 ![image](https://github.com/pendragonIV/Web_thinkpro_basic/assets/88123140/e719c8ea-0eb3-41ee-b985-d57e81818246) </br>
 Database Diagram </br>
 ![image](https://github.com/pendragonIV/Web_thinkpro_basic/assets/88123140/ba0c8413-b003-4ca2-9575-2d4f8bbe1839) </br>
-
+Website's images </br>
 Home page </br>
 ![image](https://github.com/pendragonIV/Web_thinkpro_basic/assets/88123140/c46579d6-581e-478f-af77-81540427f8c6) </br>
 Category's product </br>
